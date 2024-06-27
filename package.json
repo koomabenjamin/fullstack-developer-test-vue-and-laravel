@@ -15,7 +15,8 @@
     "@heroicons/vue": "^2.0.13",
     "pinia": "^2.0.23",
     "vue": "^3.2.41",
-    "vue-router": "^4.1.5"
+    "vue-router": "^4.1.5",
+    "vue-sweetalert2": "^5.0.11"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.1.4",

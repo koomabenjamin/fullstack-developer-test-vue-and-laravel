@@ -1,13 +1,7 @@
 <template>
-  <div class="m-2 p-5 bg-white rounded-lg h-36 border shadow">
-    
-  </div>
+  <div class="m-2 p-5 bg-white rounded-lg h-36 border shadow"></div>
 </template>
 
-<script setup>
+<script setup></script>
 
-</script>
-
-<style>
-
-</style>
+<style></style>

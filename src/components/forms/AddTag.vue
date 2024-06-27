@@ -1,10 +1,4 @@
-<template>
+<template></template>
+<script setup></script>
 
-</template>
-<script setup>
-
-</script>
-
-<style scoped>
-
-</style>
+<style scoped></style>
